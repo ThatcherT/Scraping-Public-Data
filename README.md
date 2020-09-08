@@ -1,2 +1,2 @@
 # Scraping-Public-Data
-Using BeautifulSoup to obtain data directly from the internet.
+Using BeautifulSoup to obtain GDP data directly from the internet.
